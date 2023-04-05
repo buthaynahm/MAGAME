@@ -1,0 +1,36 @@
+.card {
+    background-color: #888282;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid rgb(245, 235, 241);
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    font-size: 72px;
+    font-weight: bold;
+    color: rgb(211, 172, 195);
+    cursor: pointer;
+}
+
+.game-board {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.tries {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(41, 5, 26);
+}
+
+.timer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(9, 54, 54);
+}
